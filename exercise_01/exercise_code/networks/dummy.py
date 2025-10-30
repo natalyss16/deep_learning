@@ -48,8 +48,6 @@ class Dummy(Network):
         :return: set x to any integer larger than 59 and smaller than 101 to get passed
         """
 
-        x = 69
-
         ########################################################################
         # TODO                                                                 #
         # Implement the dummy machine function.                                #
@@ -57,7 +55,7 @@ class Dummy(Network):
         ########################################################################
 
 
-        pass
+        x = 79
 
         ########################################################################
         #                           END OF YOUR CODE                           #

@@ -1,6 +1,6 @@
 # Introduction to Deep Learning (IN2346)
 
-# Technical University of Munich - WS 24/25
+# Technical University of Munich - WS 25/26
 
 Welcome to the exercise session of Introduction to Deep Learning. In this file, we are going to guide you in setting up the environment and running the first exercise. You can run this exercise (and the following exercises) on your PC (see 1.1) or in Google Colab (See 1.2).
 
@@ -54,10 +54,10 @@ save your models to the disk. Otherwise, you will have trouble submitting your c
 
 Download your zipped exercise from the drive and submit it to the submission platform.
 
-NOTE: Pytorch does NOT support MacBooks with the M1 or M2 cpus. Therefore, in order to utilize a GPU --> use Colab.
+NOTE: Pytorch may not support mps acceleration (the mac equivalent of cuda) on MacBooks with the M1 chip. In this case, in order to utilize a GPU --> use Colab.
 
 ## 2. Exercise Download
-The exercises will be uploaded to the [course website](https://www.3dunderstanding.org/i2dl-s25/). You can download the exercises directly from there or from the [Resources](https://piazza.com/tum.de/summer2025/in2346ss25/resources) section on Piazza.
+The exercises will be uploaded to the [course website](https://niessner.github.io/I2DL/). You can download the exercises directly from there or from the [Resources](https://piazza.com/tum.de/winter2026/in2346ws2526/resources) section on Piazza.
 
 Each exercise contains at least one jupyter notebook, which could be opened by the jupyter-notebook platform (In the terminal, go to the relevant folder and type `jupyter notebook`), or several IDEs that support it, such as Microsoft's VScode or JetBrains' PyCharm.
 
